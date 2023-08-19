@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+}
+.encabezado{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ height: 100px;
+   
+}
+
+.nav-bar li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+.nav-bar a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+.nav-bar a:hover{
+   
+    color: #EB2E15 !important;
+    border-bottom: 4px solid  #EB2E15;
+    
+}
+.fondoEncabezado{
+    width: 100%;
+    height: 445px;
+    background-image: url(../images/bradcam.png);
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+}
+.imagen2{
+    height: 525px;
+}
+.titulos-principales{
+    color: white;
+    margin-right: 5rem;
+    text-align: center;
+}
+.titulo-principal{
+    font-size: 70px;
+    margin-bottom: 0;
+}
+.titulo-principal strong{
+    font-weight: bold;
+}
+.titulo2{
+    margin-top: 0;
+    font-size: 25px;
+}
+.titulo-servicios{
+    text-align: center;
+}
+.servicio-titulo-boton{
+    display: flex;
+}
+
+.servicio-titulo-boton{
+    margin: 1.5rem;
+   justify-content: right;
+   align-items: center;
+}
+
+.servicio-titulo-boton h1{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0;
+    width: 100%;
+    position: absolute;
+    justify-content: space-around;
+}
+
+.espacioBoton{
+    display: flex;
+    justify-content: end;
+}
+.titulo-servicios p{
+    font-size: 20px;
+}
+
+#btnNuevoService{
+    margin: 1rem;
+    height: 3rem;
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+
+}
+.card{
+    margin-bottom: 1rem;
+}
+#img-servicio1{
+    position: absolute;
+    padding: 1rem;
+}
+#img-servicio2{
+    position: absolute;
+ 
+}
+.card-body{
+    margin-top: 15rem;
+    text-align: center;
+}
+
+
+.botnes-CRUD{
+    justify-content: space-around;
+  
+}
+
+.card:hover{
+    border: 2px solid #EB2E15;
+    transform: scale(1.2);
+    margin-bottom: 5rem;
+}

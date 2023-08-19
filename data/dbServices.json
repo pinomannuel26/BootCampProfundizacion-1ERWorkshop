@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "img": "https://res.cloudinary.com/dbktnqag9/image/upload/v1691550936/workshop1-profundizacion/16_ppzuf6.png",
+      "title": "Visitas  Domiciliarias",
+      "description": "La prevención de enfermedades y chequeo constante de tu mascota harán que crezca sano, fuerte y saludable"
+    },
+    {
+      "id": 2,
+      "img": "https://res.cloudinary.com/dbktnqag9/image/upload/v1691551378/workshop1-profundizacion/cas_fdhisi.png",
+      "title": "Alojamiento de mascotas",
+      "description": "Cuidaremos de tu mascota mientras viajas, para asegurarnos de que juegue, coma y crezca como si estuviera en su propia casa."
+    },
+    {
+      "id": 3,
+      "img": "https://res.cloudinary.com/dbktnqag9/image/upload/v1691550936/workshop1-profundizacion/12_a0brwe.png",
+      "title": "Paseo de mascotas",
+      "description": "Agenda en qué horario quieres que recojamos a tu mascota y nos encargaremos que de que se divierta y ejercite por el espacio de tiempo que escojas"
+    },
+    {
+      "id": 4,
+      "img": "https://res.cloudinary.com/dbktnqag9/image/upload/v1691550936/workshop1-profundizacion/13_mjs7gc.png",
+      "title": "Baño de mascotas",
+      "description": "Desinfectaremos y asearemos correctamente a tu mascota con insumos especializados para el ciudado de su salud, piel y pelaje"
+    },
+    {
+      "id": 5,
+      "img": "https://res.cloudinary.com/dbktnqag9/image/upload/v1691550936/workshop1-profundizacion/14_ghu68m.png",
+      "title": "Venta de alimentos",
+      "description": "Tenemos una variada oferta de productos comestibles para mascotas, desde snacks, hasta alimentos especializados para completar su nutrición"
+    },
+    {
+      "id": 6,
+      "img": "https://res.cloudinary.com/dbktnqag9/image/upload/v1691550936/workshop1-profundizacion/15_bmxoeh.png",
+      "title": "Venta de juguetes",
+      "description": "Tenemos variados objetos para que escojas los preferidos de tu mascota, pelotas, huesos, muñecos de hule: ven y echa un vistazo"
+    },
+    {
+      "img": "https://res.cloudinary.com/dbktnqag9/image/upload/v1691631657/workshop1-profundizacion/11_m0eqvr.png",
+      "title": "Masajes a mascotas",
+      "description": "masajeamos a tu mascota",
+      "id": 7
+    }
+  ]
+}
